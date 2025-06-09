@@ -1,2 +1,2 @@
 # SnakeGame
-it's code for playing in SnakeGame, write on JAWA
+it's code for playing in SnakeGame, write on JAVA
